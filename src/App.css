@@ -1,9 +1,9 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-body{
+/* body{
     @apply bg-gray-100;
-  }
+  } */
 
 @theme{
     --font-poppins: Poppins, sans-serif;
